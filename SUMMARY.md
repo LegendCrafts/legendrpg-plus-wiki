@@ -19,8 +19,4 @@
     * [attribute.yml](属性/attribute.yml.md)
     * [config.yml](属性/config.yml.md)
     * [常见问题&常见用法](属性/常见用法.md)
-* [队伍](职业/README.md)
-    * [attribute.yml](属性/attribute.yml.md)
-    * [config.yml](属性/config.yml.md)
-    * [常见问题&常见用法](属性/常见用法.md)
 
