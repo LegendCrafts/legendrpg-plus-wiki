@@ -24,7 +24,7 @@
 |/lr sk setPoint <技能ID> <算法>|lr.skill.set|设置技能升级消耗点数算法|
 |/lr sk setMaxLevel <技能ID> <等级>|lr.skill.set|设置技能封顶等级|
 |/lr sk setLvAdded <技能ID> <算法>|lr.skill.set|设置技能的等级附加值算法|
-|/lr sk isDef <技能ID> <true,false>|lr.skill.set|是否默认习得|
+|/lr sk isDef <技能ID> \<true,false\>|lr.skill.set|是否默认习得|
 |/lr sk asyn <技能ID> <true,false>|lr.skill.set|设置技能是否异步执行|
 |/lr sk passive <技能ID> <true,false>|lr.skill.set|设置是否作为被动技能展示|
 |/lr sk addInfo <技能ID> <描述>|lr.skill.set|给该技能添加一条描述|
