@@ -31,5 +31,5 @@
 |指令      |权限节点 |说明          |
 | ------- | -------- | ------ | ------------ |
 |/lr level multiple <玩家名称> <倍值> <秒值>|lr.level.multiple|给某位玩家开启指定时间指定倍值的杀怪经验|
-|/lr level multipleAll <倍值> <秒值> <叠加类型>|lr.level.multipleAll|开启全服指定时间指定倍值的杀怪经验,叠加类型: `PLUS(加算) | RIDE(乘算) | COVER(覆盖) | NONE(不影响玩家)`|
+|/lr level multipleAll <倍值> <秒值> <叠加类型>|lr.level.multipleAll|开启全服指定时间指定倍值的杀怪经验,叠加类型: PLUS(加算) , RIDE(乘算) , COVER(覆盖) , NONE(不影响玩家)|
 |/lr level stopMultipleAll|lr.level.stopMultipleAll|停止全服加倍经验|
