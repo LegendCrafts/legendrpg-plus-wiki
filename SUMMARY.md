@@ -15,6 +15,9 @@
             * [tips.yml](等级/v1.0/配置文件/tips.yml.md)
         * [指令](等级/v1.0/指令/command.md)
         * [开发者文档](等级/v1.0/开发者文档.md)
+
+
+
 * [技能](技能/v1.0/README.md)
     * [v1.0](技能/v1.0/README.md)
         * [配置文件](技能/v1.0/README.md)
@@ -25,6 +28,20 @@
             * [tips.yml](技能/v1.0/配置文件/tips.yml.md)
         * [指令](技能/v1.0/指令/command.md)
         * [开发者文档](技能/v1.0/开发者文档.md)
+
+        
+
+* [属性](属性/v1.0/README.md)
+    * [v1.0](属性/v1.0/README.md)
+        * [配置文件](属性/v1.0/README.md)
+            * [attributes]()
+                * [攻击力.yml](属性/v1.0/配置文件/attributes/攻击力.yml.md)
+            * [config.yml](属性/v1.0/配置文件/config.yml.md)
+            * [tips.yml](属性/v1.0/配置文件/tips.yml.md)
+        * [指令](属性/v1.0/指令/command.md)
+        * [开发者文档](属性/v1.0/开发者文档.md)
+
+        
 
 ### 其他相关
 

@@ -5,7 +5,7 @@
 > xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
-### 等级附属需要依赖哪些其他LR附属?
+### 技能附属需要依赖哪些其他LR附属?
 
 > 强依赖: SCRIPT (脚本附属)<br>软依赖: 无
 
