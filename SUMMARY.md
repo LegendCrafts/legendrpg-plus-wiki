@@ -3,6 +3,14 @@
 * [LegendRpg-Plus](README.md)
 
 -----
+* [等级](等级/README.md)
+    * [配置文件](等级/README.md)
+        * [config.yml](等级/配置文件/config.yml.md)
+        * [formula.yml](等级/配置文件/formula.yml.md)
+        * [monster.yml](等级/配置文件/monster.yml.md)
+        * [serverultipleExp.yml](等级/配置文件/serverultipleExp.yml.md)
+        * [tips.yml](等级/配置文件/tips.yml.md)
+    * [指令](属性/指令/command.md)
 * [属性](属性/README.md)
     * [attribute.yml](属性/attribute.yml.md)
     * [config.yml](属性/config.yml.md)
