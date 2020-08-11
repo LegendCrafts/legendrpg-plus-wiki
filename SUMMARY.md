@@ -3,7 +3,8 @@
 * [LegendRpg-Plus](README.md)
 
 -----
-附属教程
+### 附属教程
+
 * [等级](等级/README.md)
     * [配置文件](等级/README.md)
         * [config.yml](等级/配置文件/config.yml.md)
@@ -29,7 +30,7 @@
     * [config.yml](属性/config.yml.md)
     * [常见问题&常见用法](属性/常见用法.md)
 
------
-其他相关
+### 其他相关
+
 * [其他附属](README.md)
 * [视频教程](README.md)
