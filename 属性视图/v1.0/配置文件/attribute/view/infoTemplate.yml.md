@@ -1,0 +1,26 @@
+# infoTemplate.yml
+
+## 属性加点展示的模板
+
+```yaml
+#可用内置变量
+# #(attr_name)# -> 当前展示的属性名称
+# #(attr_level)# -> 属性等级
+# #(attr_max_level)# -> 属性最大等级
+# #(attr_value)# -> 只有属性加点的值,不展示BUFF,装备产生的值
+# #(attr_next_value)# -> 下一级增加的属性值
+# #(attr_info)# -> 属性介绍列表,可能有多行,注意放置的位置
+# #(attr_point)# -> 玩家剩余属性加点
+info: 
+- '               #(attr_name)##c(#(attr_max_level)#!=-1 && #(attr_level)#>=#(attr_max_level)# ? ''(满级)''
+  : '''')c#'
+- ""
+- '属性说明:'
+- '  #(attr_info)#'
+- ""
+- '当前#(attr_name)#等级: #(attr_level)#'
+- '当前增加的#(attr_name)#属性: #(attr_value)#'
+- '下一级增加 #(attr_next_value)# #(attr_name)#'
+- ""
+- '剩余属性点: #(attr_point)#'
+```
