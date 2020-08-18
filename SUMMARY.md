@@ -36,7 +36,7 @@
                     * [skillInfoTemplate.yml](技能视图/v1.0/配置文件/skill/view/skillInfoTemplate.yml.md)
                     * [tips.yml](技能视图/v1.0/配置文件/skill/view/tips.yml.md)
         * [指令](技能视图/v1.0/指令/command.md)
-        * [开发者文档](技能视图/v1.0/开发者文档.md)
+        * [开发者文档](技能视图/v1.0/开发者文档.md)             
 
 * [属性](属性/v1.0/README.md)
     * [v1.0](属性/v1.0/README.md)
@@ -105,6 +105,16 @@
         * [指令](队伍视图/v1.0/指令/command.md)
         * [开发者文档](队伍视图/v1.0/开发者文档.md)
 
+* [脚本](脚本/v1.0/README.md)
+    * [v1.0](脚本/v1.0/README.md)
+        * [指令](脚本/v1.0/指令/command.md)
+        * [开发者文档](脚本/v1.0/开发者文档.md)    
+
+* [标签]](标签/v1.0/README.md)
+    * [v1.0](标签/v1.0/README.md)
+        * [指令](标签/v1.0/指令/command.md)
+        * [开发者文档](标签/v1.0/开发者文档.md)           
+
 * [额外槽](额外槽/v1.0/README.md)
     * [v1.0](额外槽/v1.0/README.md)
         * [配置文件](额外槽/v1.0/README.md)
@@ -126,7 +136,27 @@
         * [配置文件](RPG背包/v1.0/README.md)
             * [tips.yml](RPG背包/v1.0/配置文件/tips.yml.md)
         * [指令](玩家状态条/v1.0/指令/command.md)
-        * [开发者文档](玩家状态条/v1.0/开发者文档.md)            
+        * [开发者文档](玩家状态条/v1.0/开发者文档.md)       
+
+* [社交菜单](社交菜单/v1.0/README.md)
+    * [v1.0](社交菜单/v1.0/README.md)
+        * [配置文件](社交菜单/v1.0/README.md)
+            * [config.yml](社交菜单/v1.0/配置文件/config.yml.md)
+            * [societMenu.yml](社交菜单/v1.0/配置文件/societMenu.yml.md)
+        * [指令](社交菜单/v1.0/指令/command.md)
+        * [开发者文档](社交菜单/v1.0/开发者文档.md)   
+        
+* [视图核心库API](视图核心库API/v1.0/README.md)
+    * [v1.0](视图核心库API/v1.0/README.md)
+        * [配置文件](视图核心库API/v1.0/README.md)
+            * [config.yml](视图核心库API/v1.0/配置文件/config.yml.md)
+            * [hudKeyCmdConfig.yml](视图核心库API/v1.0/配置文件/hudKeyCmdConfig.yml.md)
+            * [hudSlot.yml](视图核心库API/v1.0/配置文件/hudSlot.yml.md)
+            * [state.yml](视图核心库API/v1.0/配置文件/state.yml.md)
+        * [指令](视图核心库API/v1.0/指令/command.md)
+        * [开发者文档](视图核心库API/v1.0/开发者文档.md)               
+        
+
 
 
 ### 其他相关
