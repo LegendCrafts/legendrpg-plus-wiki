@@ -3,6 +3,20 @@
 * [LegendRpg-Plus](README.md)
 
 -----
+### LegendRpg-Core
+* [Core](核心-CORE/v1.0/README.md)
+    * [v1.0](核心-CORE/v1.0/README.md)
+        * [配置文件](核心-CORE/v1.0/README.md)
+            * [variablePool](核心-CORE/v1.0/README.md)
+                * [default.yml](核心-CORE/v1.0/配置文件/variablePool/default.yml.md)
+            * [config.yml](核心-CORE/v1.0/配置文件/config.yml.md)
+            * [log.yml](核心-CORE/v1.0/配置文件/log.yml.md)
+            * [login.yml](核心-CORE/v1.0/配置文件/login.yml.md)
+            * [mysql.yml](核心-CORE/v1.0/配置文件/mysql.yml.md)
+            * [tips.yml](核心-CORE/v1.0/配置文件/tips.yml.md)
+        * [指令](核心-CORE/v1.0/指令/command.md)
+        * [开发者文档](核心-CORE/v1.0/开发者文档.md)
+
 ### 附属教程
 
 * [等级](等级/v1.0/README.md)
