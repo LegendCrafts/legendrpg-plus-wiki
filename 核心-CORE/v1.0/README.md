@@ -1,9 +1,11 @@
-# LegendRpg-Core
+# Core v1.0文档
 
-### LegendRpg-Core的功能?
+## 指令
+[指令](指令.md)
+## 开发者文档
+[开发者文档](开发者文档.md)
+## 配置文件
+[配置文件](配置文件.md)
 
-> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-### 快速入门:
 
->xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

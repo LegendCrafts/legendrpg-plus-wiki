@@ -1,15 +1,8 @@
-# 职业
+# 职业 1.0
 
-### 职业附属的功能?
-
-> xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-### 职业附属需要依赖哪些其他LR附属?
-
-> 强依赖: PROP (道具附属) , LEVEL (等级附属)<br>软依赖: SKILL (技能附属)
-
-
-### 快速入门:
-
->xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+## 指令
+[指令](指令.md)
+## 开发者文档
+[开发者文档](开发者文档.md)
+## 配置文件
+[开发者文档](配置文件.md)
