@@ -29,15 +29,9 @@
         * [配置文件](属性/v1.0/配置文件.md)
 * [职业](职业/README.md)
     * [v1.0](职业/v1.0/README.md)
-        * [配置文件](职业/v1.0/README.md)
-            * role
-                * [role4.yml](职业/v1.0/配置文件/role/role4.yml.md)
-            * [config.yml](职业/v1.0/配置文件/config.yml.md)
-            * [tips.yml](职业/v1.0/配置文件/tips.yml.md)
         * [指令](职业/v1.0/command.md)
         * [开发者文档](职业/v1.0/开发者文档.md)
         * [配置文件](职业/v1.0/配置文件.md)
-
 * [道具](道具/README.md)
     * [更新日志](道具/更新日志.md)
     * [v1.0](道具/v1.0/README.md)
