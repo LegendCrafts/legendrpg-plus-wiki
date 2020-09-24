@@ -1,9 +1,0 @@
-# tips.yml
-
-## 提示信息
-```yaml
-#提示信息
-coolingNotOver: '冷却时间未结束,还剩 : %s 秒'
-propParamIncomplete: 该道具参数未补齐
-sneaking: 需要下蹲
-```
